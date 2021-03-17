@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me via e-mail: k926227@gmail.com
-- Telegram: @k926227
+- 📱 telegram: @k926227
 
 <!---
 926227/926227 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
