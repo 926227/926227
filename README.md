@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Constantin
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript.
 - 📫 You can reach me via e-mail: k926227@gmail.com
 - 📱 telegram: @k926227
 
